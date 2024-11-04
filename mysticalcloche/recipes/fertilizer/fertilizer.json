@@ -1,8 +1,0 @@
-{
-  "type": "immersiveengineering:fertilizer",
-  "growthModifier": 1.6,
-  "input": {
-    "item": "immersiveengineering:fertilizer",
-	"item": "industrialforegoing:fertilizer"
-  }
-}
