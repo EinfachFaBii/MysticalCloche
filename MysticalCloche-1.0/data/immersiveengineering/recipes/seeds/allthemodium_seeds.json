@@ -1,0 +1,22 @@
+{
+  "type": "immersiveengineering:cloche",
+  "results": [
+    {
+      "item": "mysticalagriculture:allthemodium_essence",
+      "count": 4
+    }
+  ],
+  "input": {
+    "item": "mysticalagriculture:allthemodium_seeds"
+  },
+  "soil": [
+	{
+	  "item": "allthemodium:allthemodium_block"
+	}
+  ],
+  "time": 1200,
+  "render": {
+    "type": "crop",
+    "block": "mysticalagriculture:allthemodium_crop"
+  }
+}
