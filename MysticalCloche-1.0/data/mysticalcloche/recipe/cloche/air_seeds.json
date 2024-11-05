@@ -1,0 +1,20 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mysticalagriculture:air_seeds"
+  },
+  "render": {
+    "type": "immersiveengineering:crop",
+    "block": "mysticalagriculture:air_crop"
+  },
+  "results": [
+    {
+	  "count": 2,
+      "id": "mysticalagriculture:air_essence"
+    }
+  ],
+  "soil": {
+	"tag": "mysticalcloche:soil_tier_elemental"
+  },
+  "time": 800
+}
