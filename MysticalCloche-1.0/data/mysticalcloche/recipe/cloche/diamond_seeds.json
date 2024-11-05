@@ -1,0 +1,20 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mysticalagriculture:diamond_seeds"
+  },
+  "render": {
+    "type": "immersiveengineering:crop",
+    "block": "mysticalagriculture:diamond_crop"
+  },
+  "results": [
+    {
+	  "count": 1,
+      "id": "mysticalagriculture:diamond_essence"
+    }
+  ],
+  "soil": {
+	"tag": "mysticalcloche:soil_tier_five"
+  },
+  "time": 800
+}

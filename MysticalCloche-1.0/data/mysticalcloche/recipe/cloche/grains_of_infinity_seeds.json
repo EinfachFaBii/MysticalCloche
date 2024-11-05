@@ -1,0 +1,20 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mysticalagriculture:grains_of_infinity_seeds"
+  },
+  "render": {
+    "type": "immersiveengineering:crop",
+    "block": "mysticalagriculture:grains_of_infinity_crop"
+  },
+  "results": [
+    {
+	  "count": 2,
+      "id": "mysticalagriculture:grains_of_infinity_essence"
+    }
+  ],
+  "soil": {
+	"tag": "mysticalcloche:soil_tier_two"
+  },
+  "time": 800
+}

@@ -1,0 +1,20 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mysticalagriculture:aluminum_seeds"
+  },
+  "render": {
+    "type": "immersiveengineering:crop",
+    "block": "mysticalagriculture:aluminum_crop"
+  },
+  "results": [
+    {
+	  "count": 2,
+      "id": "mysticalagriculture:aluminum_essence"
+    }
+  ],
+  "soil": {
+	"tag": "mysticalcloche:soil_tier_two"
+  },
+  "time": 800
+}

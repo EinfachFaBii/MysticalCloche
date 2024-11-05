@@ -1,0 +1,20 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mysticalagriculture:blizz_seeds"
+  },
+  "render": {
+    "type": "immersiveengineering:crop",
+    "block": "mysticalagriculture:blizz_crop"
+  },
+  "results": [
+    {
+	  "count": 2,
+      "id": "mysticalagriculture:blizz_essence"
+    }
+  ],
+  "soil": {
+	"tag": "mysticalcloche:soil_tier_three"
+  },
+  "time": 800
+}

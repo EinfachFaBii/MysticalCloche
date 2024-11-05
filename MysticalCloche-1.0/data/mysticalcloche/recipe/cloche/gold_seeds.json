@@ -1,0 +1,20 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mysticalagriculture:gold_seeds"
+  },
+  "render": {
+    "type": "immersiveengineering:crop",
+    "block": "mysticalagriculture:gold_crop"
+  },
+  "results": [
+    {
+	  "count": 1,
+      "id": "mysticalagriculture:gold_essence"
+    }
+  ],
+  "soil": {
+	"tag": "mysticalcloche:soil_tier_four"
+  },
+  "time": 800
+}

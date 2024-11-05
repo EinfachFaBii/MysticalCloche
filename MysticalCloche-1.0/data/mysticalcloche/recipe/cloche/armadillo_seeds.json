@@ -1,0 +1,20 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mysticalagriculture:armadillo_seeds"
+  },
+  "render": {
+    "type": "immersiveengineering:crop",
+    "block": "mysticalagriculture:armadillo_crop"
+  },
+  "results": [
+    {
+	  "count": 2,
+      "id": "mysticalagriculture:armadillo_essence"
+    }
+  ],
+  "soil": {
+	"tag": "mysticalcloche:soil_tier_two"
+  },
+  "time": 800
+}
