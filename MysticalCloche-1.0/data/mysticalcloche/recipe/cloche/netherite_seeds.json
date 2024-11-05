@@ -1,0 +1,20 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mysticalagriculture:netherite_seeds"
+  },
+  "render": {
+    "type": "immersiveengineering:crop",
+    "block": "mysticalagriculture:netherite_crop"
+  },
+  "results": [
+    {
+	  "count": 1,
+      "id": "mysticalagriculture:netherite_essence"
+    }
+  ],
+  "soil": {
+	"tag": "mysticalcloche:soil_tier_five"
+  },
+  "time": 800
+}

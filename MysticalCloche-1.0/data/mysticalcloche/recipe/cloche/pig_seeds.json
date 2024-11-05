@@ -1,0 +1,20 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mysticalagriculture:pig_seeds"
+  },
+  "render": {
+    "type": "immersiveengineering:crop",
+    "block": "mysticalagriculture:pig_crop"
+  },
+  "results": [
+    {
+	  "count": 2,
+      "id": "mysticalagriculture:pig_essence"
+    }
+  ],
+  "soil": {
+	"tag": "mysticalcloche:soil_tier_two"
+  },
+  "time": 800
+}

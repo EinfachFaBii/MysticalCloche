@@ -1,0 +1,20 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mysticalagriculture:manyullyn_seeds"
+  },
+  "render": {
+    "type": "immersiveengineering:crop",
+    "block": "mysticalagriculture:manyullyn_crop"
+  },
+  "results": [
+    {
+	  "count": 1,
+      "id": "mysticalagriculture:manyullyn_essence"
+    }
+  ],
+  "soil": {
+	"tag": "mysticalcloche:soil_tier_six"
+  },
+  "time": 800
+}

@@ -1,0 +1,20 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mysticalagriculture:vibranium_seeds"
+  },
+  "render": {
+    "type": "immersiveengineering:crop",
+    "block": "mysticalagriculture:vibranium_crop"
+  },
+  "results": [
+    {
+	  "count": 1,
+      "id": "mysticalagriculture:vibranium_essence"
+    }
+  ],
+  "soil": {
+	"tag": "mysticalcloche:soil_tier_magical"
+  },
+  "time": 800
+}

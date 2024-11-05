@@ -1,0 +1,20 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mysticalagriculture:spider_seeds"
+  },
+  "render": {
+    "type": "immersiveengineering:crop",
+    "block": "mysticalagriculture:spider_crop"
+  },
+  "results": [
+    {
+	  "count": 2,
+      "id": "mysticalagriculture:spider_essence"
+    }
+  ],
+  "soil": {
+	"tag": "mysticalcloche:soil_tier_three"
+  },
+  "time": 800
+}

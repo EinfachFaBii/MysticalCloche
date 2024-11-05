@@ -1,0 +1,20 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mysticalagriculture:manasteel_seeds"
+  },
+  "render": {
+    "type": "immersiveengineering:crop",
+    "block": "mysticalagriculture:manasteel_crop"
+  },
+  "results": [
+    {
+	  "count": 2,
+      "id": "mysticalagriculture:manasteel_essence"
+    }
+  ],
+  "soil": {
+	"tag": "mysticalcloche:soil_tier_three"
+  },
+  "time": 800
+}

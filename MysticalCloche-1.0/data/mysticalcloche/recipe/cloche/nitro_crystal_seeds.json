@@ -1,0 +1,20 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mysticalagriculture:nitro_crystal_seeds"
+  },
+  "render": {
+    "type": "immersiveengineering:crop",
+    "block": "mysticalagriculture:nitro_crystal_crop"
+  },
+  "results": [
+    {
+	  "count": 1,
+      "id": "mysticalagriculture:nitro_crystal_essence"
+    }
+  ],
+  "soil": {
+	"tag": "mysticalcloche:soil_tier_six"
+  },
+  "time": 800
+}
